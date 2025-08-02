@@ -94,14 +94,8 @@ Problem-Solving Mindset: Frustration from expanding scope (e.g., adding interact
 
 AI as a Thought Partner: I used tools like Grok and ChatGPT sparingly - not for writing code, but for discussing concepts, validating design ideas, and getting objective feedback. This "reflective" approach helped solidify my understanding without shortcuts, building a solid individual foundation in Java basics that I know and can execute as a practical skillset. To me it serves as a ‘correct view’ in my mind - that AI shines as a co-pilot, once you grasp the fundamentals yourself & can use it to extend one’s ability to individually construct complexity at scale with hyperspeed.
 Overall, this exercise helped me to grasp and understand Java mechanics, & showed me the "why" behind developer practices. If you're building something similar, consider starting small, then iterate—extensibility will follow naturally.
-
 Contributing
 Feel free to fork this repo and suggest improvements! If adding new menu items, just update the arrays in the relevant classes and test thoroughly.
-
-Cheers
-
-
-
-
-
+Acknowledgments
+Shoutout to online resources and AI advisors for helping clarify Java concepts during brainstorming sessions. This project was completed amidst life changes like moving cities and starting a new job, making the finish line even sweeter.
 
