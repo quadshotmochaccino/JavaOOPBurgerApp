@@ -1,7 +1,7 @@
-Burger Builder: Interactive Console-Based Menu Customizer
+Burger Builder: Interactive Console-Based Menu Customiser
 Overview
 
-This is Burger Builder, a Java-based console application that allows users to interactively build & customize their burger orders. 
+This is Burger Builder, a Java-based console application that allows users to interactively build & customise their burger orders. 
 
 What was meant to be a straightforward exercise in the middle of a Udemy course about object-oriented programming (OOP) evolved into a Java deep dive around fundamentals, design principles, & user experience (UX) considerations. The project is a simulation of a Burger App menu, where you can select burgers, toppings, and pair this with sides & drinks. 
 
@@ -10,7 +10,7 @@ It also has a simple option, a 2 step order process for a simple hamburger combo
 The app runs entirely console run, giving a text-based interface for input and output. It's an example of applying OOP concepts like inheritance, encapsulation, and polymorphism in a real-world scenario.
 
 Features
-Customizable Menu Building: Users can select from a variety of burgers (including a deluxe option), add up to a set number of toppings, choose sides (like fries), and pick drinks. The system calculates the total price dynamically.
+Customisable Menu Building: Users can select from a variety of burgers (including a deluxe option), add up to a set number of toppings, choose sides (like fries), and pick drinks. The system calculates the total price dynamically.
 
 Extensibility: Menu items are stored in arrays within their respective classes (e.g., Burger, Side, Drink). Adding or removing items is simple - simply update these arrays, & the app adapts seamlessly without requiring code changes elsewhere.
 
