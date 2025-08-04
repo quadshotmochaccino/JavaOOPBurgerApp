@@ -7,7 +7,7 @@ What was meant to be a straightforward exercise in the middle of a Udemy course 
 
 It also has a simple option, a 2 step order process for a simple hamburger combo (Press 1, press Y, done!) It handles special cases like deluxe burgers with toppings, sides and drinks all inclusive. It's also designed with extensibility in mind, making it easy to expand the menu without having to completely redesign things.
 
-The app runs entirely console run, giving a text-based interface for input and output. It's an example of applying OOP concepts like inheritance, encapsulation, and polymorphism in a real-world scenario.
+The app runs entirely in the console, giving a text-based interface for input and output. It's an example of applying OOP concepts like inheritance, encapsulation, and polymorphism in a real-world scenario.
 
 Features
 Customisable Menu Building: Users can select from a variety of burgers (including a deluxe option), add up to a set number of toppings, choose sides (like fries), and pick drinks. The system calculates the total price dynamically.
